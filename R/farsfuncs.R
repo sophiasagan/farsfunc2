@@ -121,7 +121,7 @@ fars_summarize_years <- function(years) {
 #' Generates a map displaying accidents for a given state and year
 #'
 #' This is a function that generates a map (using the maps package) that displays the location of
-#' accidents (using the graphics package) for a given state and year.
+#' accidents (using the graphics package) for given state and year.
 #'
 #' @details Will generate error if an invalid state number is input.
 #'
