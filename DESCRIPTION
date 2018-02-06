@@ -1,7 +1,7 @@
 Package: farsfuncs
 Title: Summarises and visualises Fars data
 Version: 0.0.0.9000
-Authors@R: person("Michael", "T", email = "first.last@example.com", role = c("aut", "cre"))
+Authors@R: person("Sophia", "B", email = "first.last@example.com", role = c("aut", "cre"))
 Description: Summarises and visualises Fars data.
 Depends: R (>= 3.3.2)
 License: What license is it under?
