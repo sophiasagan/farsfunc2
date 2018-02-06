@@ -17,9 +17,9 @@ library(farsfuncs)
 Users may access some sample data by running the following codes.
 
 ```R
-f13path<-system.file("extdata", "accident_2013.csv.bz2", package = "farsfuncs")
-f14path<-system.file("extdata", "accident_2014.csv.bz2", package = "farsfuncs")
-f15path<-system.file("extdata", "accident_2015.csv.bz2", package = "farsfuncs")
+f13path<-system.file("inst", "accident_2013.csv.bz2", package = "farsfuncs")
+f14path<-system.file("inst", "accident_2014.csv.bz2", package = "farsfuncs")
+f15path<-system.file("inst", "accident_2015.csv.bz2", package = "farsfuncs")
 file.copy(from=c(f13path,f14path,f15path),to=getwd())
 ```
 ## farsfuncs
