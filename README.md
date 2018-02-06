@@ -10,7 +10,7 @@ You can use the following code to install the development version of `farsfuncs`
 ```R
 library(devtools)
 install_github("sophiasagan/farsfunc2")
-library(farsfunc2)
+library(farsfuncs)
 ```
 ## Sample data included with package
 
