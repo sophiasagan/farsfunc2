@@ -1,4 +1,4 @@
-`devtools::use_travis`
+devtools::use_travis
 
 The functions provided by this package use data from the [US National Highway Traffic Safety Administration's](https://www.nhtsa.gov/) [Fatality Analysis Reporting System](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars). This is a US nationwide census providing the American public yearly data regarding fatal injuries suffered in motor vehicle traffic crashes.
 
